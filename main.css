@@ -226,7 +226,7 @@ body {
 	box-shadow: 0 6px 24px rgba(10, 12, 20, 0.04);
 	min-height: 60vh;
 	width: 100%;
-	overflow: auto
+	/*overflow: auto*/
 }
 
 .content img {
