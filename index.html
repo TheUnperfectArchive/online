@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1" />
+	<title>theunperfectarchive</title>
+	<link rel="stylesheet" href="main.css" />
+</head>
+
+<body>
+	<header class="site-header">
+		<div class="header-inner">
+			<button id="sidebarToggle" class="sidebar-toggle" aria-label="Open navigation"
+				aria-expanded="false">☰</button>
+			<div class="brand">
+				<span class="logo">TUA</span>
+				<h1 class="site-title">The Unperfect Archive</h1>
+			</div>
+			<div class="header-actions">
+				<button id="themeToggle" class="btn small" aria-label="Toggle light/dark">Day/Night</button>
+			</div>
+		</div>
+		<p id="subtitle" class="subtitle">Rendering Intro.md</p>
+	</header>
+
+	<div class="app">
+		<!-- overlay for mobile when sidebar open -->
+		<div id="overlay" class="overlay" hidden></div>
+
+		<aside class="sidebar" id="sidebar" aria-hidden="true">
+
+			<!-- sidebar search -->
+			<div style="margin-bottom:0.6rem;">
+				<input id="sideSearch" class="search" type="search" placeholder="Search pages..."
+					aria-label="Search pages" />
+			</div>
+
+			<nav id="pageNav" class="nav" aria-label="Documentation navigation">
+
+				<button data-file="Intro.md" class="nav-link">Introduction</button>
+
+				<div class="nav-group">
+					<button class="group-toggle" aria-expanded="false">Content</button>
+					<div class="group-items" hidden>
+						<button data-file="#" class="nav-link">Many</button>
+						<button data-file="##" class="nav-link">More</button>
+					</div>
+				</div>
+
+				<!--<div class="nav-group">
+					<button class="group-toggle" aria-expanded="false">Technology</button>
+					<div class="group-items" hidden>
+						<button data-file="#" class="nav-link">Rahul Kanojia</button>
+						<button data-file="##" class="nav-link">Kamlesh Rajput</button>
+					</div>
+				</div>
+
+				<div class="nav-group">
+					<button class="group-toggle" aria-expanded="false">Engineering</button>
+					<div class="group-items" hidden>
+						<button data-file="#" class="nav-link">Rahul Kanojia</button>
+						<button data-file="##" class="nav-link">Kamlesh Rajput</button>
+					</div>
+				</div>
+
+				<div class="nav-group">
+					<button class="group-toggle" aria-expanded="false">Arts</button>
+					<div class="group-items" hidden>
+						<button data-file="#" class="nav-link">Rahul Kanojia</button>
+						<button data-file="##" class="nav-link">Kamlesh Rajput</button>
+					</div>
+				</div>
+
+				<div class="nav-group">
+					<button class="group-toggle" aria-expanded="false">Mathametics</button>
+					<div class="group-items" hidden>
+						<button data-file="#" class="nav-link">Rahul Kanojia</button>
+						<button data-file="##" class="nav-link">Kamlesh Rajput</button>
+						<button data-file="###" class="nav-link">Kishlay Kamal</button>
+						<button data-file="####" class="nav-link">Anwar Jafri</button>
+					</div>
+				</div>
+
+				<div class="nav-group">
+					<button class="group-toggle" aria-expanded="false">Contributors</button>
+					<div class="group-items" hidden>
+						<button data-file="#" class="nav-link">Rahul Kanojia</button>
+						<button data-file="##" class="nav-link">Kamlesh Rajput</button>
+						<button data-file="###" class="nav-link">Kishlay Kamal</button>
+						<button data-file="####" class="nav-link">Anwar Jafri</button>
+					</div>
+				</div>
+			</nav>-->
+
+				<!--<div class="controls" id="controls" aria-hidden="true">
+					<label for="fileInput" class="file-label">Open local Markdown</label>
+					<input id="fileInput" type="file" accept=".md,text/markdown" />
+					<div id="dropzone" class="dropzone">Or drag & drop a .md file here</div>
+				</div>-->
+		</aside>
+
+		<main id="content" class="content" tabindex="0">Loading markdown...</main>
+
+
+	</div>
+
+	<footer class="site-footer">
+		<p class="muted">© The Unperfect Archive</p>
+	</footer>
+
+	<script src="main.js"></script>
+</body>
+
+</html>
