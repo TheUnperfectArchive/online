@@ -15,6 +15,8 @@
 	color: var(--text);
 	/*background: var(--bg);*/
 	box-sizing: border-box;
+	overflow-x: hidden;
+
 }
 
 * {
@@ -22,12 +24,11 @@
 }
 
 body {
-	margin: 0;
+	margin:auto auto;
 	padding: 1rem;
 	background: var(--bg);
 	color: var(--text);
 	background-image: url(assets/images/graph-paper.svg);
-	overflow-x: hidden;
 }
 
 /* header */
