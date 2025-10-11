@@ -24,7 +24,7 @@
 }
 
 body {
-	margin:auto auto;
+	margin:1 1;
 	padding: 1rem;
 	background: var(--bg);
 	color: var(--text);
@@ -228,7 +228,7 @@ body {
 	box-shadow: 0 6px 24px rgba(10, 12, 20, 0.04);
 	min-height: 60vh;
 	width: 100%;
-	/*overflow: auto*/
+	overflow: hidden;
 }
 
 .content img {
@@ -447,7 +447,7 @@ blockquote {
 	}
 }
 
-@media (max-width: 720px) {
+@media (max-width: 320px) {
 	.layout {
 		flex-direction: column;
 	}
