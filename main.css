@@ -24,7 +24,7 @@
 }
 
 body {
-	margin:1 1;
+	margin:0;
 	padding: 1rem;
 	background: var(--bg);
 	color: var(--text);
@@ -111,10 +111,11 @@ body {
 /* overlay */
 .overlay {
 	position: fixed;
+	display: none;
+	height: 100%;
 	inset: 0;
-	background: rgba(2, 6, 23, 0.45);
+	background: rgba(2, 43, 100, 0.45);
 	z-index: 40;
-	bottom: -12px;
 }
 
 /* sidebar */
@@ -229,7 +230,6 @@ body {
 	box-shadow: 0 6px 24px rgba(10, 12, 20, 0.04);
 	min-height: 60vh;
 	width: 100%;
-	overflow: hidden;
 }
 
 .content img {
