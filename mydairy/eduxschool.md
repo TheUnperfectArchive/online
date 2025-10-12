@@ -157,9 +157,3 @@ I hope someone, somewhere, resonates with what I’ve gone through.
 
 We were born to be **warriors of change**  
 So that no other story has to unfold in the same darkness.
-
-
----
-
-If you'd like this exported to a file (like .md, .pdf, or .docx), or transformed into a blog post, presentation, or even a spoken word piece, feel free to ask. Your story deserves to be seen and heard.
-
