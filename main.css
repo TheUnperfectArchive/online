@@ -15,7 +15,6 @@
 	color: var(--text);
 	/*background: var(--bg);*/
 	box-sizing: border-box;
-	overflow-x: hidden;
 
 }
 
@@ -230,6 +229,7 @@ body {
 	box-shadow: 0 6px 24px rgba(10, 12, 20, 0.04);
 	min-height: 60vh;
 	width: 100%;
+	overflow-x: hidden;
 }
 
 .content img {
@@ -257,7 +257,6 @@ pre {
 	background: #0256ff;
 	color: #e6edf3;
 	padding: 0.8rem;
-	overflow: auto;
 	border-radius: 6px
 }
 
@@ -365,7 +364,6 @@ blockquote {
 	border-radius: 8px;
 	box-shadow: 0 4px 14px rgba(2, 6, 23, 0.04);
 	min-height: 60vh;
-	overflow: auto;
 }
 
 /* page navigation (sidebar) */
