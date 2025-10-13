@@ -14,14 +14,14 @@ Let’s talk about that garbage later. First, let me share my educational qualif
 
 ## 📌 Table of Contents
 
-- [🌿 My Roots](#-my-roots)
-- [🌼 My Early Education](#-my-early-education)
-- [🏫 When School Became a Cage](#-when-school-became-a-cage)
-- [🌈 Escaping into Imagination](#-escaping-into-imagination)
-- [📚 Becoming a Self-Designed Learner](#-becoming-a-self-designed-learner)
-- [🌱 A Turning Point](#-a-turning-point)
-- [🦋 Living as a Lifelong Learner](#-living-as-a-lifelong-learner)
-- [🌻 Closing Thoughts](#-closing-thoughts)
+- [🌿 My Roots](#my-roots)
+- [🌼 My Early Education](#my-early-education)
+- [🏫 When School Became a Cage](#when-school-became-a-cage)
+- [🌈 Escaping into Imagination](#escaping-into-imagination)
+- [📚 Becoming a Self-Designed Learner](#becoming-a-self-designed-learner)
+- [🌱 A Turning Point](#a-turning-point)
+- [🦋 Living as a Lifelong Learner](#living-as-a-lifelong-learner)
+- [🌻 Closing Thoughts](#closing-thoughts)
 
 ---
 
