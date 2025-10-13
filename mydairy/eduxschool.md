@@ -12,19 +12,6 @@ Let’s talk about that garbage later. First, let me share my educational qualif
 
 ---
 
-## 📌 Table of Contents
-
-- My Roots
-- My Early Education
-- When School Became a Cage
-- Escaping into Imagination
-- Becoming a Self-Designed Learner
-- A Turning Point
-- Living as a Lifelong Learner
-- Closing Thoughts
-
----
-
 ## 🌿 My Roots
 
 My mother came from a tribal background near Mumbai, from a place called Vasind, where she lived her entire life until she got married and moved to urban Mumbai.
