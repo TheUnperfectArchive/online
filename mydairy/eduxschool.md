@@ -12,6 +12,19 @@ Let’s talk about that garbage later. First, let me share my educational qualif
 
 ---
 
+## 📌 Table of Contents
+
+- [🌿 My Roots](#-my-roots)
+- [🌼 My Early Education](#-my-early-education)
+- [🏫 When School Became a Cage](#-when-school-became-a-cage)
+- [🌈 Escaping into Imagination](#-escaping-into-imagination)
+- [📚 Becoming a Self-Designed Learner](#-becoming-a-self-designed-learner)
+- [🌱 A Turning Point](#-a-turning-point)
+- [🦋 Living as a Lifelong Learner](#-living-as-a-lifelong-learner)
+- [🌻 Closing Thoughts](#-closing-thoughts)
+
+---
+
 ## 🌿 My Roots
 
 My mother came from a tribal background near Mumbai, from a place called Vasind, where she lived her entire life until she got married and moved to urban Mumbai.
@@ -110,17 +123,20 @@ But still, the curriculum was designed for careers, not for people.
 ## 🌱 A Turning Point
 
 Eventually, I enrolled in the **Barefoot Social Research Fellowship**.  
+Thanks to [**PUKAR**](https://pukar.org.in/) and **TISS**, Mumbai.  
 There, I met my first *facilitator*, a word I had never heard before.  
 Until then, I only had blind and deaf teachers.
 
 This fellowship gave me wings.  
 It introduced me to **interdisciplinary studies** and returned my freedom.
 
-One day, after completing my research and mentoring juniors, I told my facilitator I wanted to leave formal academia and continue as a self-learner.
+One day, after completing my research and mentoring juniors, I told my facilitator I wanted to leave formal academia and continue as a full-fledged self-learner.
 
-He told me about **Swaraj University**, a self-directed learning university in Udaipur, Rajasthan.
+He told me about [**Swaraj University**](https://www.swarajuniversity.org/), a self-directed learning university in Udaipur, Rajasthan.
 
 And from there, everything changed.
+
+Later in and after Swaraj, I joined several groups. One that brought the most impact to my life is [**Vigyan Ashram**](https://vigyanashram.com/), where I got the opportunity to connect with [**The Fab Foundation**](https://fabfoundation.org/) through completing my [**Fab Academy**](https://fabacademy.org/).
 
 ---
 
@@ -132,8 +148,8 @@ I continued my learning journey.
 
 I now call myself a **STEAM facilitator and innovator**, not a teacher, instructor, or educator.
 
-Academia had always limited travel with its busy and rigid system.  
-But I later discovered that **travel is one of the greatest forms of self-education**.
+Academia is a way too busy and rigid system which rarely enables traveling.  
+By being rebellious I discovered that **travel is one of the greatest forms of self-education that no other system can mimic**.
 
 Once I started, I never looked back.  
 Even though my family still doesn’t fully understand my journey, and they try to pull me back sometimes, I now move at a speed that can’t be stopped.
@@ -148,12 +164,13 @@ I also learned farming so that one day I could build my own green surroundings, 
 
 So, that’s an overview of my learning journey.
 
-**School is not equal to education**  
-**Experiencing life deeply is the best kind of education**
+> **School ≠ Education**  
+> **Experiencing life deeply and directly is the best kind of education**  
+> **It is the one and only form of education; the rest are just trainings**
 
 Thank you for reading.
 
 I hope someone, somewhere, resonates with what I’ve gone through.
 
-We were born to be **warriors of change**  
+We were born to be **warriors of change**,  
 So that no other story has to unfold in the same darkness.
