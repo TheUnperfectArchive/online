@@ -11,10 +11,16 @@
 	--radius: 10px;
 	--shadow: 0 8px 30px rgba(33, 33, 33, 0.08);
 	--gap: 1rem;
+	--linktext: #1565d8;
 	font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
 	color: var(--text);
 	box-sizing: border-box;
 
+}
+
+:link {
+	color: var(--linktext);
+	text-decoration: none;
 }
 
 * {
@@ -493,6 +499,7 @@ body.dark {
 	--text: #e6edf3;
 	--accent: #ffcc00;
 	--accent-contrast: #1e1e1e;
+	--linktext: #ffcc00;
 	--sidebar-bg: linear-gradient(180deg, #2b2b2b, #3b3b3b);
 	--sidebar-ink: #ffffff;
 }
