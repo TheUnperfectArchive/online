@@ -150,7 +150,7 @@ body {
 	text-align: left;
 	background: transparent;
 	border: none;
-	color: var(--sidebar-ink);
+	color: var(--accent);
 	padding: 0.6rem;
 	border-radius: 8px;
 	font-weight: 400;
@@ -167,7 +167,9 @@ body {
 	display: flex;
 	flex-direction: column;
 	gap: 0.4rem;
-	padding-left: 0.4rem
+	padding-left: 0.4rem;
+	background-color: #252525;
+	border-radius: 8px;
 }
 
 .group-items[hidden] {
@@ -370,7 +372,7 @@ blockquote {
 	min-height: 60vh;
 }
 
-/* page navigation (sidebar) */
+/* page navigation (sidebar)
 .page-nav {
 	display: flex;
 	flex-direction: column;
@@ -391,7 +393,7 @@ blockquote {
 	background: transparent;
 	color: var(--sidebar-ink);
 	cursor: pointer;
-	/*font-weight: 800;*/
+	/*font-weight: 800;*
 }
 
 .group-toggle[aria-expanded="true"] {
