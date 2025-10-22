@@ -97,6 +97,31 @@ document.addEventListener("DOMContentLoaded", () => {
 	}
 
 	/* -------------------------------
+ 	* 🔗 URL SHARE FEATURE
+ 	* ----------------------------- */
+	const languageToggle = document.getElementById('languageToggle');
+
+	if (languageToggle) {
+		languageToggle.addEventListener('click', () => {
+			const currentLang = document.documentElement.lang || 'en';
+			const newLang = currentLang === 'en' ? 'hi' : 'en';
+			document.documentElement.lang = newLang;
+
+			if (newLang === 'hi') {
+				const script = document.createElement('script');
+				script.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+				document.head.appendChild(script);
+				window.googleTranslateElementInit = function () {
+					new google.translate.TranslateElement({ pageLanguage: 'en', includedLanguages: 'hi,en' }, 'content');
+				};
+			} else {
+				location.reload(); // reload back to English
+			}
+		});
+	}
+
+
+	/* -------------------------------
 	 * 🔗 URL SHARE FEATURE
 	 * ----------------------------- */
 	function parseHash() {
@@ -164,8 +189,19 @@ document.addEventListener("DOMContentLoaded", () => {
 	/* -------------------------------
 	 * 📄 LOAD & RENDER MARKDOWN
 	 * ----------------------------- */
+	function setActiveNav(file) {
+		pageNav.querySelectorAll(".nav-link").forEach(link => {
+			if (link.getAttribute("data-file") === file) {
+				link.classList.add("active");
+			} else {
+				link.classList.remove("active");
+			}
+		});
+	}
+
 	async function loadAndRender(filename = currentFile) {
 		currentFile = filename;
+		setActiveNav(currentFile);
 		subtitleEl.textContent = `Rendering ${currentFile}`;
 		contentEl.innerHTML = `<p>Loading markdown…</p>`;
 
