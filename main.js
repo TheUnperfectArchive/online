@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
 	}
 
 	/* -------------------------------
- 	* 🔗 URL SHARE FEATURE
+ 	* ⚖️ TOGGLE LANGUAGES
  	* ----------------------------- */
 	const languageToggle = document.getElementById('languageToggle');
 
