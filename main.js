@@ -97,25 +97,52 @@ document.addEventListener("DOMContentLoaded", () => {
 	}
 
 	/* -------------------------------
- 	* ⚖️ TOGGLE LANGUAGES
- 	* ----------------------------- */
+	 * ⚖️ TOGGLE LANGUAGES
+	 * ----------------------------- */
 	const languageToggle = document.getElementById('languageToggle');
+
+	// always start in English
+	if (!document.documentElement.lang) {
+		document.documentElement.lang = 'en';
+	}
+
+	function loadGoogleTranslate(callback) {
+		if (typeof google === 'object' && google.translate) {
+			callback();
+		} else {
+			const script = document.createElement('script');
+			script.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+			document.head.appendChild(script);
+			window.googleTranslateElementInit = callback;
+		}
+	}
+
+	function setLanguage(lang) {
+		const select = document.querySelector('.goog-te-combo');
+		if (select) {
+			select.value = lang;
+			select.dispatchEvent(new Event('change'));
+		}
+	}
 
 	if (languageToggle) {
 		languageToggle.addEventListener('click', () => {
-			const currentLang = document.documentElement.lang || 'en';
+			const currentLang = document.documentElement.lang;
 			const newLang = currentLang === 'en' ? 'hi' : 'en';
 			document.documentElement.lang = newLang;
 
 			if (newLang === 'hi') {
-				const script = document.createElement('script');
-				script.src = 'https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
-				document.head.appendChild(script);
-				window.googleTranslateElementInit = function () {
-					new google.translate.TranslateElement({ pageLanguage: 'en', includedLanguages: 'hi,en' }, 'content');
-				};
+				loadGoogleTranslate(() => {
+					new google.translate.TranslateElement(
+						{ pageLanguage: 'en', includedLanguages: 'hi,en', autoDisplay: false },
+						'google_translate_element'
+					);
+					// small delay to ensure element loads
+					setTimeout(() => setLanguage('hi'), 800);
+				});
 			} else {
-				location.reload(); // reload back to English
+				setLanguage('en');
+				setTimeout(() => location.reload(), 800);
 			}
 		});
 	}

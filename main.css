@@ -27,8 +27,20 @@
 	box-sizing: inherit
 }
 
+/* Hide Google translate toolbar and dropdown completely */
+.goog-te-banner-frame,
+.goog-te-gadget,
+.goog-te-menu-frame,
+.goog-te-combo {
+	display: none !important;
+}
+
 body {
-	margin:0;
+	top: 0 !important;
+}
+
+body {
+	margin: 0;
 	padding: 1rem;
 	background: var(--bg);
 	color: var(--text);

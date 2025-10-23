@@ -76,6 +76,10 @@ And the second thing I wanted, honestly, was to do nothing at all.
 
 ---
 
+![Scene from 'Into the Wild'](/assets/images/intothewildsocietyscene.jpg)
+
+---
+
 ## Glitches in the System
 
 But I found a glitch in every system I ever entered.  
@@ -107,6 +111,9 @@ Still, what’s the point of surviving if we lose life in the process?
 
 ---
 
+![Scene from 'Into the Wild'](/assets/images/intothewildcareerscene.jpeg)
+
+---
 ## From Livelihood to Alivelihood
 
 I want us to shift from **livelihood**, which is about survival,  
