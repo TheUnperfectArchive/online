@@ -76,7 +76,7 @@ And the second thing I wanted, honestly, was to do nothing at all.
 
 ---
 
-![Scene from 'Into the Wild'](/assets/images/intothewildsocietyscene.jpg)
+![Scene from 'Into the Wild'](../assets/images/intothewildsocietyscene.jpg)
 
 ---
 
@@ -111,7 +111,7 @@ Still, what’s the point of surviving if we lose life in the process?
 
 ---
 
-![Scene from 'Into the Wild'](/assets/images/intothewildcareerscene.jpeg)
+![Scene from 'Into the Wild'](../assets/images/intothewildcareerscene.jpeg)
 
 ---
 ## From Livelihood to Alivelihood
