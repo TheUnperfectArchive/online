@@ -1,120 +1,151 @@
-# 🫂 Lovelife Vs. ⌛ Rushlife
+# 🫂 **Lovelife** vs ⌛ **Rushlife**
 
+---
 
 ## 🏃‍♂️ **The Rush Begins**
 
-**Ran! Fast... More faster!**  
+**Run! Fast... Faster!**  
 *You baster, fly!*  
 No no no... **teleport!**  
-No no no... *born successful, you bloody slow, lazy rat.*  
+No no no... *you must be born successful already! You slow, lazy rat.*  
 
-Got little dramatic, na?  
+A bit dramatic, right?  
 
-It is a short and bold reflection of society’s mindset.  
+This is a simple but bold look at how society thinks.  
 It is called **Rushlife.**
 
 ---
 
 ## ⚙️ **The Race of Everything**
 
-Rushlife gives *competition perception* to literally everything.  
+Rushlife makes everything a **competition**.  
 Even **breathing fresh air** and **drinking clean water**  
-have become part of this race.  
+have become prizes in this endless race.  
 
-What was so natural and so obvious back in time  
+What was once natural and simple  
 now has to be **earned** and **owned.**
 
 ---
 
 ## 🧱 **Owning and Exploiting**
 
-This achievement through *self-exploitation*  
-reflects further in the **exploitation of what has been earned,**  
-because the idea of *owning*  
-is itself an allowance toward **misuse.**  
+Working hard leads to achievement,  
+but achievement can lead to further exploitation.  
+The idea of *owning* something can allow **misuse.**  
 
-Interestingly, **freedom becomes exploitative**  
-when it isn’t limited  
-or not in the hands of the wise and responsible.  
+Freedom can also be dangerous  
+if it has no limits  
+or is in the hands of the careless.  
 
-There is another side of the coin.  
-Owning also gives one the **right to protect,**  
+Yet ownership has another side.  
+It can give the **right to protect,**  
 the **right to heal,**  
-and the **right to re-nourish** in modern times,  
-if you have to prevent it from other exploitative owners.  
+and the **right to take care of** what belongs to you.  
 
 But for how long?  
-It is a **failed system,**  
-because in the course of surviving generations,  
-it **dies.**
+This system is **failing.**  
+Over generations, values **fade** and die.
 
 ---
 
 ## 🧬 **Modern Humans and the Lost Balance**
 
-Looking into *anthropology,*  
-it is easy to say that **modern humans**  
-are more **exploitative** and **greedy**  
-than primitive ones.  
+Looking at *anthropology,*  
+modern humans seem more **greedy** and **selfish**  
+than primitive humans.  
 
-In the direction of Rushlife,  
-**marriage** is another exploiting ritual.  
-Maybe we talk about it later.
+A paradox remains:  
+are modern humans more barbaric than the barbarians?
 
 ---
 
 ## 🌫️ **My Rushlife Story**
 
-Since life is short and *intensively competitive*  
-(at least that’s what school portrayed to me),  
+Life is short  
+and very competitive  
+(at least that’s what school taught me).  
+
 I tried my best,  
-but not great if compared with others.  
+but compared to others, I was not enough.  
 
-I was the **loser,**  
-hence I got bored with this game already.  
-**Winners** mostly stay stuck  
-in the **addiction of rewards.**  
+I became the **loser**,  
+and the game bored me.  
+**Winners** stay trapped  
+in their **addiction to rewards.**  
 
-But yes,  
-it’s not really dependent on *winner or loser class,*  
-but on the **soul that knows.**
+But this is not about winning or losing.  
+It is about the **soul that knows.**
 
 ---
 
 ## 🔗 **Breaking the Chain**
 
-> “Good that my chain of routine devotion broke,  
+> “Good that my routine devotion broke,  
 > now I’m free to connect truly, not mechanically.”  
-> *— Idea derived from Saint Kabir*  
 
-Beginning to slow down.  
+I began to slow down.  
 
-Since everything about Rushlife  
-was losing its **meaning and sense,**  
-I’m still not sure of other ways.  
+Rushlife had lost all **meaning**,  
+yet I was still unsure of other paths.  
 
-The **death of the old** will take its time,  
-yet the **birth of the new** has no sign.  
+The **old ways** take time to fade.  
+The **new ways** have not yet appeared.  
 
-I was in a long **emptiness**  
+I was in a long **emptiness**,  
 until I surrendered  
-to whatever life is, *it is.*
+to life as it is — *it is.*
 
 ---
 
 ## 🌊 **The Flow and the Dice**
 
-Even in this state,  
-I was operating from what I was familiar with.  
-Even in the commitment of **trusting the flow,**  
-I do rush with life.  
+Even then,  
+I acted from what I knew.  
+Even while trying to **trust the flow**,  
+I still rushed.  
 
-It is not easy,  
-and not always a **win-win dice.** 🎲  
+Change is not easy.  
+The dice do not always roll in our favor. 🎲
 
 ---
 
 ## 💗 **Lovelife**
 
-What’s missing  
-is called **Lovelife.**
+What’s missing is called **Lovelife.**  
+
+It cannot be fully defined.  
+Definition limits it.  
+It loses meaning when pinned down.  
+
+I can only share how it feels,  
+because I have felt it many times within me.  
+
+It is like a harmonious rhythm,  
+where everything moves with you.  
+
+It is like a spontaneous dance,  
+or a free movement that just **happens.**  
+
+Why was dwelling in Lovelife important to me?  
+
+Because it awakens **all the expressions** I carry.  
+It flows through me when I walk with it.  
+
+In Rushlife, rewards are obvious:  
+good grades, a successful career, wealth, a perfect marriage.  
+
+In Lovelife, there is **no race.**  
+Only the endless practice of walking with yourself,  
+with family, friends,  
+with the needs of others,  
+fully present in every step.  
+
+Lovelife is the **divinity of life.**  
+
+Because in the end,  
+everything within us is a **belief**  
+that drives behavior,  
+creates action,  
+sends ripples,  
+that others experience  
+and reflect back.
