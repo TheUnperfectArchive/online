@@ -51,7 +51,7 @@ I left the profession, but carried its lessons with me.
 I wove them into my ongoing journey through science  
 as a seeker of truth.
 
-I was more like a **polymath or designer**, like Leonardo da Vinci.  
+I was more like a **polymath and designer**, like Leonardo da Vinci.  
 Funny thing is, back then I didn’t even know who he was. 😄  
 I was just a dreamer, not Google.
 
@@ -105,7 +105,7 @@ To learn and know more.
 To study people and their systems.
 
 Yes, a career is essential to survive in society.  
-But my way of being isn’t easy — not for me, and not for the people around me.
+and my way of being isn’t easy — not for me, and not for the people around me.
 
 Still, what’s the point of surviving if we lose life in the process?
 
