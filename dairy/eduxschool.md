@@ -17,7 +17,7 @@ First, let me share my real “education.” Not the one written on paper, but t
 
 ## 🌿 My Roots
 
-Let me tell you about where I come from. It's kind of a mix, you know? My maa (that's what I call my mother) is from the countryside, and my father has always been a city person. This blend gave me something special — a view of both worlds.
+Let me tell you about where I come from. It's kind of a mix, you know? My maa (that's what I call my mother) is from the countryside, and my father has always been a city person. This blend gave me something special: a view of both worlds.
 
 In my childhood, I remember during school vacations we (me, maa and my brother) spent our time at my mother's countryside house.  
 It was a mud house which maa used to say she made with her own hands. In many rural areas even now, people still build their houses by themselves using locally available materials.
@@ -58,7 +58,7 @@ Even with very similar experiences, I went on a different path.
 
 Interest and curiosity toward science and philosophy were not part of my family or surroundings.
 
-Maybe it was television or books — however it happened, it happened.
+Maybe it was television or books: however it happened, it happened.
 
 ---
 
@@ -74,7 +74,7 @@ School could have become a wonderful system, but the people inside it are not re
 
 At first, I studied in a Christian school, and those were the best moments of my school life. Till then, that was the only time I truly loved being in school.
 
-At that time, I was experiencing the best learning and living moments — I had friends, teachers were nice and supportive, and the school felt open and inviting.
+At that time, I was experiencing the best learning and living moments; I had friends, teachers were nice and supportive, and the school felt open and inviting.
 
 I was good at handwriting, drawing, clay work and all that, mainly because of maa.
 
@@ -87,7 +87,7 @@ In fifth grade, I was suddenly sent to another school, and that change was very 
 In the new place, everything went wrong.  
 **Languages were forced, art was called useless,** and students cared more about mocking each other than making friends.
 
-Because I looked a bit different — fair skin and brown hair — I stood out even more.
+Because I looked a bit different: fair skin and brown hair, I stood out even more.
 
 I started avoiding school.  
 I went only enough to pass my exams.
@@ -146,19 +146,20 @@ Before that, I had only met teachers, and they were not very inspiring for conti
 This fellowship gave me new freedom.  
 It introduced me to **interdisciplinary learning**, which later helped me find purpose in my knowledge.
 
-After finishing it and staying in touch with the group, I told my facilitator, “I want to stop this academia thing and learn things in my own way.”
+After finishing it and staying in touch with the group, I told my facilitator, “I want to stop this academia thing and learn things in my own way.” 
 
-My facilitator told me about [**Swaraj University (Udaipur)**](https://www.swarajuniversity.org/), an experimental learning space for self-driven learners.  
+My facilitator told me about [**Swaraj University (Udaipur)**](https://www.swarajuniversity.org/), an experimental learning space for self-driven learners. 
 That is where my life and learning took a turning point.
 
 After that, I connected with many groups.  
-The most influential ones were [**Vigyan Ashram**](https://vigyanashram.com/) and later [**The Fab Foundation**](https://fabfoundation.org/), where I completed [**Fab Academy**](https://fabacademy.org/).
+The most influential ones were [**Vigyan Ashram**](https://vigyanashram.com/).
 
 ---
 
 ## 🦋 Becoming a Lifelong Learner
 
-Now I did not need teachers anymore.  
+Now I did not need teachers anymore.
+
 I found **facilitators** who guided me instead of controlling me.
 
 I continued my learning journey.
@@ -167,7 +168,7 @@ Now I am a **STEAM Innovator** and an edupreneur (system creator).
 
 I learned that **life itself is the biggest education, and no system can give that to you, though some systems can support it.**
 
-I have learned from nature, people, and practice.  
+I have learned from nature, people, and practice.
 
 This multidimensional learning fostered my emotional growth and strengthened my ability to care for relationships, an aspect often neglected in academia.
 
@@ -181,7 +182,7 @@ I dream of a world where learning doesn’t mean sitting in a box for hours.
 Where kids can learn from trees and stars as much as from books.  
 Where your grandmother's stories are as valuable as a textbook.
 
-You know what I really want to see? Schools that feel like gardens — where every kid can grow in their own way and at their own pace.  
+You know what I really want to see? Schools that feel like gardens: where every kid can grow in their own way and at their own pace.  
 Where we don’t just learn about life, but actually live and experience it.
 
 Maybe someday, we'll have places where:

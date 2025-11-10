@@ -23,7 +23,7 @@ And then we declare:
 > “Humans can never be satisfied.”
 
 But I disagree.  
-In my philosophy, I believe stable satisfaction — a peaceful and complete existence — is possible.  
+In my philosophy, I believe stable satisfaction; a peaceful and complete existence is possible.  
 It begins when we start asking:
 
 > “How much do we really know ourselves?”  
@@ -105,7 +105,7 @@ To learn and know more.
 To study people and their systems.
 
 Yes, a career is essential to survive in society.  
-and my way of being isn’t easy — not for me, and not for the people around me.
+and my way of being isn’t easy; not for me, and not for the people around me.
 
 Still, what’s the point of surviving if we lose life in the process?
 
