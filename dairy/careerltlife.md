@@ -75,7 +75,7 @@ My ambitions work toward a larger picture, one that includes justice, happiness,
 And the second thing I wanted, honestly, was to do nothing at all.
 
 ---
-
+*Caption: Scene from movie "into the wild"*
 ![Scene from 'Into the Wild'](./assets/images/intothewildsocietyscene.jpg)
 
 ---
@@ -110,7 +110,7 @@ and my way of being isn’t easy — not for me, and not for the people around m
 Still, what’s the point of surviving if we lose life in the process?
 
 ---
-
+*Caption: Scene from movie "into the wild"*
 ![Scene from 'Into the Wild'](./assets/images/intothewildcareerscene.jpeg)
 
 ---

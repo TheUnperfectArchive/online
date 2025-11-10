@@ -168,9 +168,10 @@ Now I am a **STEAM Innovator** and an edupreneur (system creator).
 I learned that **life itself is the biggest education, and no system can give that to you, though some systems can support it.**
 
 I have learned from nature, people, and practice.  
-This multidimensional learning helped me grow emotionally and manage relationships, something academia often overlooks.
 
-I am like my mother, **connected to the earth**, so I also moved towards farm life.
+This multidimensional learning fostered my emotional growth and strengthened my ability to care for relationships, an aspect often neglected in academia.
+
+Like my mother, I feel deeply connected to the earth, which drew me toward an admiration for farm life.
 
 ---
 
