@@ -199,9 +199,9 @@ Maybe someday, we'll have places where:
 
 So, this is my story of education.
 
-> **School ≠ Education**  
-> **To experience life deeply and directly is real education.**  
-> **Everything else is helpful only when consciously chosen.**
+> School ≠ Education 
+> To experience life deeply and directly is real education.
+> Everything else is helpful only when consciously chosen.
 
 Thank you for reading 🙏  
 I hope someone, somewhere connects with this story.
