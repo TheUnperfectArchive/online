@@ -41,7 +41,7 @@ But curiosity wasn’t a choice. It came naturally.
 I followed it because nothing else felt real.
 
 By sixteen, I had already begun working professionally.  
-My first title was **VFX Artist**, born from a fascination with animation.  
+My first title was **Digital Artist**, born from a fascination with animation.  
 I wanted to know how those moving worlds were made.
 
 And what better way to learn than by doing?
